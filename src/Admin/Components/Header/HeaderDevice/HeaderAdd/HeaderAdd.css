@@ -1,0 +1,417 @@
+.HeadeAdd {
+    background-color: #F5F5F5;
+    max-width: 950px;
+    margin: 11px auto;
+    height: 100%;
+}
+
+.HeadeAdd h1 {
+    padding: 20px 0 0 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    line-height: 26px;
+    color: #353535;
+}
+
+.devise-icon-save h2 {
+    color: #2CB93A;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.devise-icon-save {
+    align-items: center;
+    display: flex;
+    width: 93px;
+    height: 34px;
+    border-radius: 80px;
+    background-color: #FCFCFC;
+}
+
+.devise-icon-save img {
+    margin: 11px 13px 11px 20px;
+    width: 12px;
+    height: 14px;
+}
+
+.headeradd-inputs {
+    height: 688px;
+    width: 890px;
+    margin: 10px auto;
+    background-color: #FCFCFC;
+}
+
+.headeradd-inputs h1 {
+    margin: 14px 0 8px 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.inputs-hr {
+    width: 100%;
+    height: 1px;
+    background-color: #F1473C;
+}
+
+.form1 {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 846px;
+    margin: 20px auto 0;
+    width: 100%;
+}
+
+.inputitem label {
+    margin-top: 3px;
+    font-size: 15px;
+    line-height: 18px;
+    color: #797979;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+.inputitem input {
+    border: 1px solid #E8E7E7;
+    display: flex;
+    width: 170px;
+    height: 34px;
+    border-radius: 10px;
+    outline: none;
+    padding: 12px;
+}
+
+.inputitem::placeholder {
+    font-size: 13px;
+    line-height: 15px;
+    color: #A09A9A;
+}
+
+.inp2 {
+    margin: 0 0 0 48px;
+}
+
+.inp3 {
+    margin: 0 0 0 48px;
+}
+
+.inp4 {
+    margin: 0 0 0 48px;
+}
+
+
+.master {
+    display: flex;
+}
+
+.inp5 {
+    margin: 10px 0 0 0;
+}
+
+.inp5:nth-child(2) {
+    margin: 10px 0 0 48px;
+}
+
+.inp5:nth-child(3) {
+    margin: 10px 0 0 48px;
+}
+
+.inp5:nth-child(4) {
+    margin: 10px 0 0 48px;
+}
+
+.inp5 {
+    position: relative;
+}
+
+.btn-danger {
+    position: absolute;
+    top: 28px;
+    right: 11px;
+
+}
+
+.btn-success {
+    position: absolute;
+    top: 28px;
+    right: 11px;
+
+}
+
+.form-hr {
+    margin-top: 57px;
+    max-width: 844px;
+    margin: 57px auto 0;
+    height: 1px;
+    background-color: #F1473C;
+
+}
+
+.input-master h3 {
+    font-family: 'Roboto', sans-serif;
+    color: #797979;
+    font-size: 16px;
+    line-height: 19px;
+    margin-top: 17px;
+}
+
+.form2 {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 846px;
+    margin: 15px auto 0;
+    width: 100%;
+}
+
+.form3 {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 846px;
+    margin: 11px auto 0;
+    width: 100%;
+}
+
+.inputitem2 input {
+    border: none;
+    display: flex;
+    width: 150px;
+    height: 34px;
+    border-radius: 10px;
+    outline: none;
+    padding: 12px;
+}
+
+.inputitem2 label {
+    margin-top: 3px;
+    font-size: 15px;
+    line-height: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.inp6 input {
+    border: 1px solid #E8E7E7;
+}
+
+.inp7 {
+    margin: 0 0 0 70px;
+}
+
+.inp8 {
+    margin: 0 0 0 100px;
+}
+
+.inp9 {
+    margin: 0 0 0 70px;
+}
+
+.inp10 {
+    margin: 10px 0 0 0;
+}
+
+.inp10 input {
+    border: 1px solid #E8E7E7;
+}
+
+.inp11 {
+    margin: 10px 0 0 70px;
+}
+
+.inp12 {
+    margin: 10px 0 0 100px;
+}
+
+.inp13 {
+    margin: 10px 0 0 70px;
+}
+
+.inputitem3 input {
+    border: none;
+    display: flex;
+    width: 150px;
+    height: 34px;
+    border-radius: 10px;
+    outline: none;
+    padding: 12px;
+}
+
+.inputitem3 label {
+    margin-top: 3px;
+    font-size: 15px;
+    line-height: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.inp14 input {
+    border: 1px solid #E8E7E7;
+}
+
+.inp15 {
+    margin: 0 0 0 70px;
+}
+
+.inp16 {
+    margin: 0 0 0 100px;
+}
+
+.inp17 {
+    margin: 0 0 0 70px;
+}
+
+.inp18 {
+    margin: 10px 0 0 0;
+}
+
+.inp18 input {
+    border: 1px solid #E8E7E7;
+}
+
+.inp19 {
+    margin: 10px 0 0 70px;
+}
+
+.inp20 {
+    margin: 10px 0 0 100px;
+}
+
+.inp21 {
+    margin: 10px 0 0 80px;
+}
+
+.form4 {
+
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 846px;
+    margin: 11px auto 0;
+    width: 100%;
+}
+
+.inputitem4 input {
+    border: none;
+    display: flex;
+    width: 150px;
+    height: 34px;
+    border-radius: 10px;
+    outline: none;
+    padding: 12px;
+}
+
+.inputitem5 input {
+    border: none;
+    display: flex;
+    width: 150px;
+    height: 34px;
+    border-radius: 10px;
+    outline: none;
+    padding: 12px;
+}
+
+.inputitem5 label {
+    margin-top: 3px;
+    font-size: 15px;
+    line-height: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.inputitem4 label {
+    margin-top: 3px;
+    font-size: 15px;
+    line-height: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.inp22 {
+    margin: 10px 0 0 0;
+}
+
+.inp22 input {
+    border: 1px solid #E8E7E7;
+}
+
+.inp23 {
+    margin: 0 0 0 80px;
+}
+
+.inp24 {
+    margin: 10px 0 0 80px;
+}
+
+.inp25 {
+    margin: 10px 0 0 70px;
+}
+
+.inp26 {
+    margin: 10px 0 0 100px;
+}
+
+.form5 {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 846px;
+    margin: 11px auto 0;
+    width: 100%;
+}
+
+.master {
+    display: flex;
+}
+
+@media screen and (max-width:320px) {
+    .HeadeAdd h1 {
+        display: none;
+    }
+
+    .devise-icon-save {
+        align-items: center;
+        display: flex;
+        width: 60px;
+        height: 25px;
+        border-radius: 80px;
+        background-color: #FCFCFC;
+    }
+
+    .devise-icon-save img {
+        margin: 5px 5px 6px 10px;
+        width: 11px;
+        height: 9px;
+    }
+
+    .devise-icon-save h2 {
+        font-size: 11px;
+        line-height: 13px;
+    }
+
+    .devise-icon-del {
+        margin: 0 22px 0 10px;
+    }
+
+    .inputs-hr {
+        max-width: 280px;
+        margin: 0 auto;
+    }
+
+    .form-hr {
+        max-width: 280px;
+        margin: 0 auto;
+    }
+
+    .form1 {
+        display: none;
+    }
+
+    .form2 {
+        display: none;
+    }
+
+    .form3 {
+        display: none;
+    }
+
+    .form4 {
+        display: none;
+    }
+
+    .form5 {
+        display: none;
+    }
+}
